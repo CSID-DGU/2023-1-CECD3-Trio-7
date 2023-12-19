@@ -20,7 +20,7 @@
 |<img width="500" alt="image" src="https://github.com/CSID-DGU/2023-1-CECD3-Trio-7/assets/71822869/2e127356-a17c-49c0-a6b6-e2a60ccfe2f6">|<img width="500" alt="image" src="https://github.com/CSID-DGU/2023-1-CECD3-Trio-7/assets/71822869/3949e1a2-7b63-482f-9f54-41134f920cc9">|
 
 ## TDN
-|Haze Image|Dehazed Image|
+|Haze Image(Object Detected, Haze in image)|Dehazed Image|
 |------|------|
 |<img width="500" alt="image" src="https://github.com/CSID-DGU/2023-1-CECD3-Trio-7/assets/71822869/2e127356-a17c-49c0-a6b6-e2a60ccfe2f6">|<img width="500" alt="image" src="https://github.com/CSID-DGU/2023-1-CECD3-Trio-7/assets/71822869/340288df-e93d-4dd9-9d5c-7fcbfa79213e">|
 
